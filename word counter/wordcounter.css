@@ -1,0 +1,16 @@
+#container{
+    color: rgb(10, 136, 246);
+    border:2px solid;
+    border-radius: 5px;
+    border-color: black;
+    text-align: center;
+    background-image: url(https://primaryleap.co.uk/images/wikileap/post_level_header/thumb_orignal/d57831adcf9451e1489ad0026c043412a5e2f874xG.jpg);
+    /* color:cornsilk; */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size:cover;
+    height:100vh;
+}
+    
+/* margin-left: 500px; */
+}
